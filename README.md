@@ -1,5 +1,5 @@
 # gitAutomation
-This is simple tool for those who are lazy to enter all git command to push code to repo
+This is simple tool for those who are lazy to enter all git command to push and pull code to repo
 
 Steps for use:
 1. Clone the repo
